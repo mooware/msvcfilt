@@ -22,7 +22,7 @@ I usually use **msvcfilt** like this:
 Build
 -----
 
-A 32 bit build of **msvcfilt** is available in the Downloads section of the github repo page ([here](https://github.com/downloads/mooware/msvcfilt/msvcfilt.exe)).
+A 32 bit build of **msvcfilt** is available at http://dl.dropbox.com/u/267889/github/msvcfilt.exe.
 
 The repository also contains Visual Studio 2010 solution and project files. These can either be opened with the Visual Studio 2010 IDE, or used for building on the command line, for example with `devenv msvcfilt.sln /Build`.
 
